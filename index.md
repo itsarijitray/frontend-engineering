@@ -1,8 +1,6 @@
 ---
-title: "Frontend Engineering by Arijit"
+title: "Frontend Engineering With Arijit"
 permalink: /
 layout: default
 ---
-
-# Frontend Engineering by Arijit
 
